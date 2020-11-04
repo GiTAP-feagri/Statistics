@@ -1,4 +1,4 @@
-#DESCRIÇÃO ---------------------------------------
+#DESCRIÇÃO 
 Autor: Prof. Lucas Amaral - FEAGRI/UNICAMP
 
 Esta rotina calcula correlação simples entre variáveis, plota gráfico de 
