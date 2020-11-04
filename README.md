@@ -1,10 +1,10 @@
-#DESCRIÇÃO 
+# DESCRIÇÃO 
 Autor: Prof. Lucas Amaral - FEAGRI/UNICAMP//
 
 Esta rotina calcula correlação simples entre variáveis, plota gráfico de 
 dispersão e calcula regressão linear por funções default do R.
 
-#Limpar area de trabalho
+# Limpar area de trabalho
 
 ```{r}
 rm(list = ls())
